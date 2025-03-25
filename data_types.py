@@ -1,3 +1,6 @@
+
+
+
 print(type(3))
 print(type(3.13))
 print(type(3.13+1j))
